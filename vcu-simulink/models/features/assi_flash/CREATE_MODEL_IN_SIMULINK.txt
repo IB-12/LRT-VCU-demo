@@ -1,0 +1,4 @@
+﻿Create your Simulink model as: assi_flash_logic.slx
+Input:  btn_B3 (boolean)
+Output: assi_cmd (boolean)
+Parameters: FLASH_DUR (seconds), etc.
